@@ -25,6 +25,5 @@ To use the application, follow these steps:
 - [Streamlit Documentation](https://docs.streamlit.io)
 
 ## License
-You can save the above content in a file named README.md in the root directory of your Git repository to create the README file.
 
 This project is licensed under the [MIT License](LICENSE).
